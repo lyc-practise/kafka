@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cn.practise</groupId>
-	<artifactId>elasticsearch</artifactId>
+	<artifactId>kafka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>base</name>
-	<description>elasticsearch 测试</description>
+	<description>kafka 测试</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
